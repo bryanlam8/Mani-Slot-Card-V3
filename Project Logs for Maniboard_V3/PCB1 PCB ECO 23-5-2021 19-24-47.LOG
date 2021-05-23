@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=TIM1_CH1 Pin=Con1-1
+Removed Pin From Net: NetName=TIM2_CH1 Pin=Con1-2
+Removed Pin From Net: NetName=TIM2_CH2 Pin=Con1-3
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TIM1_CH1 Pin=R6-2
+Added Pin To Net: NetName=TIM2_CH1 Pin=R7-2
+Added Pin To Net: NetName=TIM2_CH2 Pin=R8-2
+Added Pin To Net: NetName=NetCon1_1 Pin=Con1-1
+Added Pin To Net: NetName=NetCon1_1 Pin=R6-1
+Added Net: Name=NetCon1_1
+Added Pin To Net: NetName=NetCon1_2 Pin=Con1-2
+Added Pin To Net: NetName=NetCon1_2 Pin=R7-1
+Added Net: Name=NetCon1_2
+Added Pin To Net: NetName=NetCon1_3 Pin=Con1-3
+Added Pin To Net: NetName=NetCon1_3 Pin=R8-1
+Added Net: Name=NetCon1_3
+Added Member To Class: ClassName=Sheet1 Member=Component R6 0
+Added Member To Class: ClassName=Sheet1 Member=Component R7 0
+Added Member To Class: ClassName=Sheet1 Member=Component R8 0

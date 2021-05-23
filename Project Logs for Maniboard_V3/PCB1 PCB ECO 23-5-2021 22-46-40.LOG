@@ -1,0 +1,11 @@
+Change Component Comment : Designator=P2 Old Comment=Mani Card v1 New Comment=®£ÀsªOv1
+Added Component: Designator=R9(R0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I2C2_SDA Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=I2C2_SCL Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Member To Class: ClassName=Sheet1 Member=Component R9 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R10 4.7k
