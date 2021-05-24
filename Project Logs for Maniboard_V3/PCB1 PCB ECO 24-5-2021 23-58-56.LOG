@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Cam Pin=P1-2
+Removed Pin From Net: NetName=TIM1_CH1 Pin=P1-3
+Change Component Comment : Designator=P3 Old Comment=LED 1 New Comment=LED Driver 1
+Change Component Comment : Designator=P4 Old Comment=LED 2 New Comment=LED Driver 2
+Added Pin To Net: NetName=TIM1_CH1 Pin=P1-2
+Added Pin To Net: NetName=Cam Pin=P1-3

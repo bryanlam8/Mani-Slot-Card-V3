@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P2 Old Footprint=XH2.54-4pin New Footprint=XH2.54-4PIN_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component R6 0
+Added Member To Class: ClassName=Sheet1 Member=Component R7 0

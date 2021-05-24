@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3 Pin=P1-1
+Change Component Comment : Designator=D1 Old Comment=DEBUG New Comment=LED
+Change Component Comment : Designator=P2 Old Comment=Hung Lone v1 New Comment=®£ÀsªOv1
+Added Component: Designator=D2(LED-0805)
+Added Component: Designator=R11(R0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R11-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component R11 1k

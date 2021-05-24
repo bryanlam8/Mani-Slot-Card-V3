@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=12V Pin=P1-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=P2-1
+Removed Pin From Net: NetName=I2C1_SDA Pin=P2-2
+Removed Pin From Net: NetName=NetCon1_1 Pin=R6-1
+Removed Pin From Net: NetName=NetCon1_2 Pin=R7-1
+Removed Pin From Net: NetName=NetCon1_3 Pin=R8-1
+Change Component Footprint: Designator=P2 Old Footprint=XH2.54-2PIN_SMD New Footprint=XH2.54-4pin
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R12
+Added Component: Designator=F1(FUSE-PPTC-5A)
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=F1-1
+Added Pin To Net: NetName=12V Pin=P2-1
+Added Pin To Net: NetName=I2C1_SCL Pin=P2-2
+Added Pin To Net: NetName=I2C1_SDA Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=NetCon1_1 Pin=R6-1
+Added Pin To Net: NetName=12V Pin=R6-2
+Added Pin To Net: NetName=NetCon1_2 Pin=R7-1
+Added Pin To Net: NetName=NetCon1_3 Pin=R8-1
+Added Pin To Net: NetName=Cam Pin=R13-2
+Added Pin To Net: NetName=I2C1_SCL Pin=R14-2
+Added Pin To Net: NetName=I2C1_SDA Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=Micro_ROV_12V Pin=F1-2
+Added Pin To Net: NetName=Micro_ROV_12V Pin=P1-1
+Added Net: Name=Micro_ROV_12V
+Added Pin To Net: NetName=NetCon1_4 Pin=Con1-4
+Added Pin To Net: NetName=NetCon1_4 Pin=R12-1
+Added Net: Name=NetCon1_4
+Added Pin To Net: NetName=NetCon1_5 Pin=Con1-5
+Added Pin To Net: NetName=NetCon1_5 Pin=R13-1
+Added Net: Name=NetCon1_5
+Added Pin To Net: NetName=NetCon1_6 Pin=Con1-6
+Added Pin To Net: NetName=NetCon1_6 Pin=R14-1
+Added Net: Name=NetCon1_6
+Added Pin To Net: NetName=NetCon1_7 Pin=Con1-7
+Added Pin To Net: NetName=NetCon1_7 Pin=R15-1
+Added Net: Name=NetCon1_7
+Added Pin To Net: NetName=NetCon1_8 Pin=Con1-8
+Added Pin To Net: NetName=NetCon1_8 Pin=R16-1
+Added Net: Name=NetCon1_8
+Added Member To Class: ClassName=Sheet1 Member=Component F1 7A Fuse
+Added Member To Class: ClassName=Sheet1 Member=Component R12 0
+Added Member To Class: ClassName=Sheet1 Member=Component R13 0
+Added Member To Class: ClassName=Sheet1 Member=Component R14 0
+Added Member To Class: ClassName=Sheet1 Member=Component R15 0
+Added Member To Class: ClassName=Sheet1 Member=Component R16 0
