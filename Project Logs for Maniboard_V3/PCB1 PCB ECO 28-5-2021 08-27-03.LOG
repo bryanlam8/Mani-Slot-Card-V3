@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=12V Pin=P1-5
+Change Component Footprint: Designator=R6 Old Footprint=R2512 New Footprint=R1206

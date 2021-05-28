@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=12V Pin=P1-5
+Removed Pin From Net: NetName=12V Pin=R6-2
+Added Pin To Net: NetName=NetP1_4 Pin=Con1-8
+Added Pin To Net: NetName=Micro_ROV_12V Pin=R6-2
+Change Net Name : Old Net Name=NetP1_4 New Net Name=Micro_ROV_GND
